@@ -135,10 +135,10 @@
                 <div class="col order-2 order-md-1 pt-5 pt-md-0">
                     <div class="">
                         <div>
-                            <div class="pt-2 pt-sm-2 pt-md-2 rounded-mine mt-3 px-3 px-md-0">
-                                <span class="fw-bold bg-danger text-white headline-textt px-2 fs-4">$75,000
+                            <div class="pt-2 pt-sm-2 pt-md-2 rounded-mine mt-3 px-3 px-md-0 center-sm">
+                                <span class="fw-bold bg-danger text-white headline-textt px-2 fs-4 center-sm">* $75,000
                                     off</span>
-                                <h1 class=" fw-bold center-sm main-title">Thomson Towns Scarborough</h1>
+                                <h1 class=" fw-bold center-sm main-titlee">Thomson Towns Scarborough</h1>
                                 <h3 class="headline-textt headline-textt-sm pb-3 fs-5 center-sm">Pricing
                                     starting from <span style="color:red;"> $989,990!</span> </h3>
                                 <p class="pb-3  textt">
@@ -156,7 +156,7 @@
                                         Builder: Mattamy Homes
                                     </p>
 
-                                    <p class="mybot pb-md-0 pb-0 ">
+                                    <p class="mybot pb-md-0 pb-0 mx-3 mx-md-0">
                                         Address: 1021 Ellesmere Road, Scarborough
                                     </p>
                                     <p class="mybot pb-md-0 pb-0 ">
@@ -391,7 +391,9 @@
 
 
     <div class="floating fixcontact"><a href="#Contact"
-            class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg d-md-none d-block">Register Now
+            class="btn bgggggggg br-m text-dark w-100 py-1 shadow-lg d-md-none d-block">
+            <span class="d-block text-danger fw-bold">* $75,000 off</span>
+            Register Now
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-chat-left-dots" viewBox="0 0 16 16">
                 <path

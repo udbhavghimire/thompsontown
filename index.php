@@ -126,6 +126,8 @@
                     <div class="">
                         <div>
                             <div class="pt-2 pt-sm-2 pt-md-2 rounded-mine mt-3 px-3 px-md-0">
+                                <span class="fw-bold bg-danger text-white headline-textt px-2 fs-4">$75,000
+                                    off</span>
                                 <h1 class=" fw-bold center-sm main-title">Thomson Towns Scarborough</h1>
                                 <h3 class="headline-textt headline-textt-sm pb-3 fs-5 center-sm">Pricing
                                     starting from <span style="color:red;"> $989,990!</span> </h3>

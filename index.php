@@ -62,6 +62,16 @@
         window.widgetTracker("send", "pageview");
     </script>
     <!-- end Widget Tracker Code -->
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LM34RJ719L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LM34RJ719L');
+    </script>
 </head>
 
 <body>

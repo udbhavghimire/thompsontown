@@ -17,13 +17,13 @@
     <title>Thankyou</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PV3TGFFYNY"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LM34RJ719L"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
-        gtag('config', 'G-PV3TGFFYNY');
+        gtag('config', 'G-LM34RJ719L');
     </script>
 </head>
 
